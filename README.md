@@ -1,8 +1,3 @@
-#solarized-crosh
+#Solarized crosh
 
-Google recently released "Secure Shell" On the chrome web store. It's an SSH
-tool in your chrome browser. After I added it and I peek at the options on there
-I see that I can add my own colors. So I downloaded my Solarized file and
-hit "Restore Backup" Selected my file, and Bam. Solarized Secure Shell.
-I realize though that Secure Shell is just like crosh. I press
-"CTRL+ALT+T" to open up crosh and it was solarized as well.  
+Google recently released an SSH client called Secure Shell on the Chrome Webstore. After I added it, I had a peek at the Options menu and saw that you can change the colors, so I put in the solarized colors and exported a JSON file in Options>Save Backup. To use these settings go to Options>Restore Backup, select the file, and Bam. Solarized Secure Shell and crosh.
